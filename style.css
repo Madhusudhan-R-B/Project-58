@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+    background-size: 1350px;
+    background-image: url("https://images.unsplash.com/photo-1555069811-3fce6ac918e4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1482&q=80");
+}
+
+#home {
+    background-image: url("https://images.unsplash.com/photo-1616185838108-4eabf2e22726?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+    background-size: 1500px;
+    width: 1350px;
+    height: 650px;
+    margin-left: -10px;
+    margin-top: -15px;
+}
+
+.links {
+    margin-right: 10px;
+    float: right;
+    font-family: cursive;
+    border-radius: 5px;
+    font-weight: 400;
+    background-color: aqua;
+}
+
+.links:hover{
+    background-color: yellow;
+}
+
+.menu {
+    width: 500px;
+    list-style: none;
+    height: 0px;
+    position: fixed;
+}
+
+#myimage {
+    width: 250px;
+    border-radius: 60px;
+}
+
+#name1 {
+    font-size: 50px;
+    font-family: monospace;
+}
+
+#name2 {
+    font-size: 60px;
+    font-family: cursive;
+}
+
+
+
+
+#hobbyheader {
+    font-family: cursive;
+    color: yellow;
+    background-image: url("https://images.unsplash.com/photo-1599422090663-ed3dfa1349d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGdyYWRpZW50JTIweWVsbG93JTIwYW5kJTIwYmx1ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: 1500px;
+    font-size: 40px;
+    
+}
+
+#imagehobby {
+    border-radius: 80px;
+    width: 500px;
+    
+}
+
+#hobby {
+    font-size: 30px;
+    color: maroon;
+}
+
+
+
+
+#sportheader {
+    font-family: cursive;
+    color: yellow;
+    background-image: url("https://images.unsplash.com/photo-1599422090663-ed3dfa1349d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGdyYWRpZW50JTIweWVsbG93JTIwYW5kJTIwYmx1ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: 1500px;
+    font-size: 40px;    
+}
+
+#imagesport {
+    border-radius: 80px;
+    width: 500px;   
+}
+
+#sport {
+    font-size: 30px;
+    color: maroon;
+}
